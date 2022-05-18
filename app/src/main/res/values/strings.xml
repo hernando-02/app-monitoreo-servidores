@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Integra Services</string>
+    <string name="user_name">User Name</string>
+    <string name="login_button">Login</string>
+    <string name="user_password">Password</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logs">Logs</string>
+    <string name="alertas">Alertas</string>
+    <string name="sesiones">Sesiones</string>
+    <string name="txt_welcome">INTEGRA SERVICES</string>
+</resources>
